@@ -9,10 +9,10 @@ Python dili ile "Genetik Algoritma" sıfırdan kodlanmıştır.
 - **Kütüphaneler:** NumPy, Matplotlib, Random
 
 ## Sonuçlar
-Algoritma sonucunda elde edilen en iyi değerler:
-- Genişlik (x1): 40 cm
-- Yükseklik (x2): 20 cm
-- Maksimum Kazanç: 600
+- **Genişlik (x1):** 34.54 cm
+- **Yükseklik (x2):** 17.37 cm
+- **Alan (x1*x2):** 599.86 cm² 
+- **Amaç Fonksiyonu Değeri:** 450.41
 
 ## Hazırlayan
 Halil Yaşar - 2212721026
